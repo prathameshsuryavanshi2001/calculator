@@ -1,0 +1,48 @@
+.label{
+  font-size: 50px;
+  position: relative;
+  left: 530px;
+  top: 30px;
+  text-decoration: underline;
+}
+
+
+
+
+.a{
+  background-color: #faf3dd;
+  margin: 0;
+}
+
+
+.t{
+  position: relative;
+  top:100px;
+  left:500px;
+}
+
+td{
+  padding: 5px;
+}
+
+input{
+  background-color:#a2d5f2;
+  font-size: 30px;
+  border: #07689f;
+  width: 100px;
+}
+
+
+.xyz{
+  width: 210px;
+}
+
+
+footer{
+  color:black;
+  font-size: 30px;
+  display: inline;
+  position: relative;
+  top: 160px;
+  left: 900px;
+}
